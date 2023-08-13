@@ -2,7 +2,7 @@
 
 Libraries
 
--   Clerk
+-   Clerk, @clerk/Themes
 -   Mongoose
 -   Svix
 -   Uploadthing
